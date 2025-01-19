@@ -10,5 +10,7 @@ The program also uses PySimpleGUI library for graphical interface.
 
 ## Usage
 cd src
+
 pip -r install requirements.txt
+
 python .\garbage_collectors.py [num of agents]
